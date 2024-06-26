@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Warl-0c
-- I’m interested in getting rich by programming
+- I’m interested in programming 
 - I’m currently learning Python on my own and also going thru college studying BCA 
 - I’m looking to collaborate with no one right now
 
